@@ -1,0 +1,42 @@
+/* 
+   Barron's Birmingham Pizza in the Heart of Dixie
+
+   Author: Michael Truss
+   Date: April 10, 2018
+*/
+
+
+
+div {
+  background-color: cadetblue;
+  padding: 25px;
+  font-family: Arial, sans-serif;
+  text-decoration: italic;
+  text-color: white;
+}
+
+h1 {
+  text-decoration: italic;
+  padding: 25px;
+  line-spacing: 0em;
+}
+
+button {
+  padding: 20px;
+  text-decoration: italic;
+  text-align: left;
+}
+
+form-group {
+  padding: 25px;
+  text-decoration: none;
+  col-width: 15px;
+  font-family: Verdena, sans-serif;
+}
+
+footer {
+  font-family: Juno, sans-serif;
+  text-decoration: bold;
+  padding: 20px;
+}
+
